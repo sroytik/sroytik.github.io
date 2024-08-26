@@ -11,7 +11,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 News
 ======
-- <font color="red">July 16, 2024</font> One paper **“Fast and Scalable Incomplete Multi-View Clustering with Duality Optimal Graph Filtering”** have been accepted by $\color{Green}{ACM Multimedia (ACM MM) 2024}$ (CCF-A Recommendation Conference).
+- <font color="red">July 16, 2024</font> One paper **“Fast and Scalable Incomplete Multi-View Clustering with Duality Optimal Graph Filtering”** have been accepted by <font color="green">ACM Multimedia (ACM MM) 2024</font> (CCF-A Recommendation Conference).
 
 Researches
 ======
