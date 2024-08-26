@@ -11,7 +11,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 News
 ======
-$\item$ Jul 16, 2024 One paper “Fast and Scalable Incomplete Multi-View Clustering with Duality Optimal Graph Filtering” have been accepted by ACM MM 2024 (CCF-A Recommendation Conference).
+- **Jul 16, 2024** One paper “Fast and Scalable Incomplete Multi-View Clustering with Duality Optimal Graph Filtering” have been accepted by **ACM MM 2024** (CCF-A Recommendation Conference).
 
 Researches
 ======
