@@ -11,6 +11,8 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 News
 ======
+- [<font color="red">June 20, 2025</font>] One paper **“A Dual Mixture-of-Experts Framework for Multi-View K-Means Clustering with View Balance and Regional Sparsity”** have been accepted by <font color="green">Information Fusion</font> (SCI Q1 Top Journal).
+
 - [<font color="red">July 16, 2024</font>] One paper **“Fast and Scalable Incomplete Multi-View Clustering with Duality Optimal Graph Filtering”** have been accepted by <font color="green">ACM Multimedia (ACM MM) 2024</font> (CCF Rank A).
 
 Researches
