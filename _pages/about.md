@@ -9,6 +9,8 @@ redirect_from:
 
 News
 ======
+- [<font color="red">May 1, 2026</font>] One paper **“Contractive Anchor Resolvent Diffusion for Incomplete Multi-View Clustering”** have been accepted by <font color="green">International Conference on Machine Learning (ICML) 2026</font> (CCF Rank A).
+
 - [<font color="red">October 13, 2025</font>] Won the national scholarship for Doctoral Students.
 
 - [<font color="red">June 20, 2025</font>] One paper **“A Dual Mixture-of-Experts Framework for Multi-View K-Means Clustering with View Balance and Regional Sparsity”** have been accepted by <font color="green">Information Fusion</font> (SCI Q1 Top Journal).
